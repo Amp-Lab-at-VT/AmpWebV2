@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.597a0ad4.css",
+    "main.js": "/static/js/main.5c877831.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Forsyth.jpg": "/static/media/Forsyth.cff3fcb12b22ad3b6620.jpg",
+    "static/media/Meadows.jpg": "/static/media/Meadows.39f3e2f48e8d6556d47a.jpg",
+    "static/media/Gibbons.jpg": "/static/media/Gibbons.561c4c96f7cfa61d8d0a.jpg",
+    "static/media/Baumann.jpg": "/static/media/Baumann.3ac8524d11a38be90e38.jpg",
+    "static/media/tutorial.md": "/static/media/tutorial.af1d601d6afb7b63c68d.md",
+    "static/media/mentor_steps.md": "/static/media/mentor_steps.9b6c64687961cec593ba.md",
+    "static/media/adv_soldering.md": "/static/media/adv_soldering.1d200eab2b7474e214bf.md",
+    "static/media/quickstart.md": "/static/media/quickstart.8f942f71ca5d68b2d5ee.md",
+    "static/media/about.md": "/static/media/about.25be067fdfd34663247e.md",
+    "static/media/basic_soldering.md": "/static/media/basic_soldering.71bd40111cec04a4bf2c.md",
+    "static/media/soldering.md": "/static/media/soldering.f3cc0b08abc08627cde8.md",
+    "index.html": "/index.html",
+    "static/media/migration.md": "/static/media/migration.5f6f3b0e73fd05384430.md",
+    "static/media/useful_links.md": "/static/media/useful_links.e8bc04760bbcffef9dd3.md",
+    "main.597a0ad4.css.map": "/static/css/main.597a0ad4.css.map",
+    "main.5c877831.js.map": "/static/js/main.5c877831.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.597a0ad4.css",
+    "static/js/main.5c877831.js"
+  ]
+}
