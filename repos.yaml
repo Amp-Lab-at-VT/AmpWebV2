@@ -28,6 +28,9 @@ Stylophone:
 Modular Flight Controller Recovey System (MFCRS):
   url : "https://github.com/devincress/MFCRS"
   branch: "main"  
+Split-Rail-DC-Power-Supply:
+  url : "https://github.com/tylermwells/Split-Rail-DC-Power-Supply"
+  branch: "main"
 # Sample:
 #   url : "https://github.com/Amp-Lab-at-VT/SampleProject"
 #   branch: "master"
