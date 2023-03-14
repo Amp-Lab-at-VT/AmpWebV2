@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(0, 0, 0);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App-standardPage {
+  background-color: #ffffff;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: calc(10px + 1vmin);
+  color: rgb(0, 0, 0);
+  margin-top: 50px;
+}
+
+/* .App-standardPage * {
+  padding: 10px;
+  margin: 10px;
+} */
+
+.App-pageHelper{
+  padding: 10px;
+  margin: 10px;
+  display: block;
+}
+
+hr {
+  width: 95%;
+  padding: 0px;
+  margin: 0px;
+  height: 1px;
+  border: none;
+  background-color: #000000;
+}
+
+.btn {
+  background-color: rgb(196, 178, 178);
+  padding: 10px;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  color:black;
+  pointer-events: all;
+  display: block;
+  margin: 2px;
+}
+
+.btn:hover {
+  background-color: rgba(244, 118, 118, 0.802);
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.flex-row-left {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}
+
+.flex-row-wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+  align-items: center;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+
+/* My custom formats */
+
+.homeText {
+  font-size: 4em;
+  font-weight: 300;
+  color: rgb(185, 18, 18);
+  text-align: center;
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 0 20px;
+  font-family: 'Georgia Bold'
+}
+

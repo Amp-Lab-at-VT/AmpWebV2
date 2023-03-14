@@ -1,0 +1,14 @@
+.tutorialText p{
+    font-size: 20px;
+    font-weight: 300;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    margin: 0 auto;
+    padding: 0 20px;
+    font-family: 'Georgia Bold'
+}
+
+.customText text {
+    font-family: 'Georgia Bold';
+    font-size: 100px;
+}
